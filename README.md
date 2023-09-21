@@ -1,6 +1,6 @@
 # ctudel.github.io
 ## Pages Tester
-This is a test repository to make an example GitHub "page.
+This is a test repository to make an example GitHub "page".
 A bit about me
 - Age: 20 (21 in a week).
 - CS Undergrad Student at Boise State University.
